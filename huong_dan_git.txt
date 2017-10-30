@@ -1,27 +1,29 @@
-các câu l?nh 
+cÃ¡c cÃ¢u l?nh 
 
-ls d?m xem có bn t?p ho t? ên thu m?c mu?n upload
+git clone https://github.com/tunguyen97/UNETI
 
-
-git status   xem có bn thu m?c chua upload nên trên kho
-
-git add có hai lo?i 
-
-git add . d?u ch?m s? thay th? cho t?t c? , up  h?t nên kho các file chua up
-
-git add ten_file ch? d?nh up file nào nên
+ls d?m xem cÃ³ bn t?p ho t? Ãªn thu m?c mu?n upload
 
 
+git status   xem cÃ³ bn thu m?c chua upload nÃªn trÃªn kho
 
-git commit -m "dòng chú thích"  câu l?nh t?o chú thích 
+git add cÃ³ hai lo?i 
+
+git add . d?u ch?m s? thay th? cho t?t c? , up  h?t nÃªn kho cÃ¡c file chua up
+
+git add ten_file ch? d?nh up file nÃ o nÃªn
 
 
 
-git push origin master câu l?nh d? d?y file nên trên kho 
+git commit -m "dÃ²ng chÃº thÃ­ch"  cÃ¢u l?nh t?o chÃº thÃ­ch 
+
+
+
+git push origin master cÃ¢u l?nh d? d?y file nÃªn trÃªn kho 
 
 
 
 git config --global user.email "gmail.com cu?a b?n"
 
-git config --global user.name "tên github c?a b?n"
+git config --global user.name "tÃªn github c?a b?n"
 
