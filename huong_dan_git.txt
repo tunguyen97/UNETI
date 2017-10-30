@@ -1,0 +1,27 @@
+các câu l?nh 
+
+ls d?m xem có bn t?p ho t? ên thu m?c mu?n upload
+
+
+git status   xem có bn thu m?c chua upload nên trên kho
+
+git add có hai lo?i 
+
+git add . d?u ch?m s? thay th? cho t?t c? , up  h?t nên kho các file chua up
+
+git add ten_file ch? d?nh up file nào nên
+
+
+
+git commit -m "dòng chú thích"  câu l?nh t?o chú thích 
+
+
+
+git push origin master câu l?nh d? d?y file nên trên kho 
+
+
+
+git config --global user.email "gmail.com cu?a b?n"
+
+git config --global user.name "tên github c?a b?n"
+
